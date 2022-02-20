@@ -9,7 +9,5 @@ THE STEPS OF MAKING THE PROJECT AND CONNECTING IT WITH A GITHUB REPOSITORY:
 5th: Connect my local repo and the remote repo in GitHub with the command: "git remote add origin https://github.com/ihechikara/git-and-github-tutorial.git"
 6th: "git branch -M main" to change the main branch name to 'main'
 7th: tried command: "git push -u origin main" to push repo device to GitHub but got rejected    error: failed to push some refs to 'https://github.com/urrmina/StudentCard.git'
-8th: to fix it used three commands: "git pull -u origin main" ---> "git push -u origin main" ---> another error: failed to push some refs to 'https://github.com/urrmina/StudentCa
-rd.git' ---> "git push -f origin main"
-last command use to force changes to the server with the local repository.
+8th: to fix it used three commands: "git pull -u origin main" ---> "git push -u origin main" ---> another error: failed to push some refs to 'https://github.com/urrmina/StudentCard.git' ---> "git push -f origin main" :: last command used to force changes to the server with the local repository.
 FINAL.
